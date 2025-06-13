@@ -1,4 +1,3 @@
-# houseplant-store
 # 🪴 Houseplant E-Commerce Store with Redux
 
 Welcome to the **Houseplant E-Commerce Store**, a React and Redux-powered web application where users can browse, categorize, and purchase beautiful houseplants online.
@@ -40,21 +39,6 @@ The app allows users to:
 
 ## 📂 Project Structure
 
-src/
-├── components/
-├── pages/
-│ ├── LandingPage.jsx
-│ ├── ProductListingPage.jsx
-│ └── CartPage.jsx
-├── redux/
-│ ├── store.js
-│ ├── cartSlice.js
-├── assets/
-└── App.js
-
-yaml
-نسخ
-تحرير
 
 ## 🔗 Live Demo
 
@@ -66,4 +50,5 @@ yaml
 This project is for educational purposes only.
 
 ---
+
 > Made with 💚 by Zakaria Mohammed
